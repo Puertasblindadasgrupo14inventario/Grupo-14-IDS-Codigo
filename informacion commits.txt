@@ -1,0 +1,25 @@
+Sofia Cariñe con la cuenta sofiisii realizo:
+-Subio la carpeta Vistas del sistema
+
+Jhoe Catillo con la cuenta lDazt-X realizo:
+-Subio el dml 05_ventas_y_pedidos.sql
+-Subio el dml 06_operacion.sql
+-Subio el dml 07_volumen_cu76.sql
+-Subio el dml catalogos_inventario.sql
+
+Karla Curín con la cuenta Karla236-gif realizo:
+-Subio el dml 01_finanzas_terreno.sql
+-Subio el dml 02_usuarios.sql
+-Subio el dml 03_maestros.sql
+-Subio el dml 04_historia.sql
+
+Lenin Reyes con la cuenta avisave realizo:
+-Subio el ddl de ddl_finanzas.sql
+-Subio el ddl de ddl_terreno.sql
+
+Silvio Villagra con la cuenta JFK98 realizo:
+-	Subio el archivo ddl_inventario.sql
+
+Omar Olmos con la cuenta KidneyStonez realizo:
+-Subio carpeta controlador del sistema y readme
+
